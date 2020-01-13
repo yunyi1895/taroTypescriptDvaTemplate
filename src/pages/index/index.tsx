@@ -87,6 +87,7 @@ class Index extends Component {
   };
   handeleAdd(){
     var s = 3;
+    console.log(Taro.cloud);
     this.props.add(s);
   }
   handleJian(){

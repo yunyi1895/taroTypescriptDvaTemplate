@@ -1,3 +1,4 @@
+
 type IndexInterFace={
   count:Number
 }
@@ -6,3 +7,4 @@ interface RequestOptions{
   data:Object,
   url:String
 }
+
